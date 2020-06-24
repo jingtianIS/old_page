@@ -23,15 +23,9 @@ Williamsburg, VA, 23185
 3. S. Wan, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
 
 ## Service
-* Jornal reviewer: 
-  1. IEEE Internet Computing
-  2. ACM Digital Threats: Research and Practice
-  3. CCF Transactions on Networking
-* Conference reviewer:
-  1. IEEE International Conference on Computer Communications (INFOCOM 2020)
-  2. IEEE International Conference on Communications (ICC 2019)
-  3. IEEE Conference on Communications and Network Security (CNS 2018/2016)
-* Conference sub-reviewer: ICICS 2020/2019/2018, ICDCS 2020/2019, Securecomm 2018/2017, SciSec 2018
+* **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
+* **Conference reviewer**: IEEE INFOCOM 2020, IEEE ICC 2019, IEEE CNS 2018/2016.
+* **Conference sub-reviewer**: ICICS 2020/2019/2018, ICDCS 2020/2019, Securecomm 2018/2017, SciSec 2018.
 
 # Experience
 * **Software Engineer Intern**, Product Security Team, Facebook, Inc. Working on an Android WebView related project. July 2019 - Sept. 2019.
