@@ -20,7 +20,7 @@ Williamsburg, VA, 23185
 ## Publication
 1. S. Wan, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SAINT: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"](./assets/papers/SATIN-DSN2019.pdf). In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
 2. S. Wan, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
-3. S. Wan, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](https://ieeexplore.ieee.org/document/7996685). In Proceedings of IEEE ICC 2017.
+3. S. Wan, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
 
 ## Service
 * Jornal reviewer: 
