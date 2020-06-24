@@ -22,7 +22,7 @@ Williamsburg, VA, 23185
 2. S. Wan, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
 3. S. Wan, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](https://ieeexplore.ieee.org/document/7996685). In Proceedings of IEEE ICC 2017.
 
-## Service (Conference and Jounal External Review)
+## Service
 * Jornal reviewer: 
   1. IEEE Internet Computing
   2. ACM Digital Threats: Research and Practice
@@ -39,6 +39,6 @@ Williamsburg, VA, 23185
 
 * * *
 
-*Last updated: April, 2020*
+*Last updated: June, 2020*
 
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
