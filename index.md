@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Background
-Dr. Shengye Wan received his Ph.D. from [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received M.S. degree ([thesis][1]) in Computer Science from College of William & Mary in 2016 and B.Eng. degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
+Dr. Shengye Wan received his Ph.D. from [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received M.S. in Computer Science ([thesis][1]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
 
 [1]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 
