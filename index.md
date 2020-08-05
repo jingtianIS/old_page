@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Background
-Shengye Wan is a Ph.D. in the [Computer Science Department](http://www.wm.edu/as/computerscience/) at [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received [Master degree](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd) in the Computer Science Department] at College of William & Mary in 2016 and Bachelor of Engineering degree from Software Engineering Department of [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
+Shengye Wan is a Ph.D. in the [Computer Science Department](http://www.wm.edu/as/computerscience/) at [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received [Master degree][1] in the Computer Science Department at College of William & Mary in 2016 and Bachelor of Engineering degree from Software Engineering Department of [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
+
+[1]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 
 # Contact
 **Email:** swan at email.wm.edu
@@ -31,6 +33,6 @@ Williamsburg, VA, 23185
 
 * * *
 
-*Last updated: June, 2020*
+*Last updated: August, 2020*
 
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
