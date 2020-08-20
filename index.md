@@ -18,9 +18,11 @@ Williamsburg, VA, 23185
 **Interest:** Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. S. Wan, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"](./assets/papers/SATIN-DSN2019.pdf). In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
-2. S. Wan, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
-3. S. Wan, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
+1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. "RusTEE: Developing Memory-Safe ARM TrustZone Applications". To appear in Annual Computer Security Applications Conference (ACSAC), Austin, Texas, USA, December 7-11, 2020.
+2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. "Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments". To appear in ACM Conference on Computer and Communications Security (CCS), Orlando, USA, November 9-13, 2020.
+3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"](./assets/papers/SATIN-DSN2019.pdf). In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
+4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
+5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
 
 ## Service
 * **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
