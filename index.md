@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Background
-Dr. Shengye Wan received his Ph.D. from [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received M.S. in Computer Science ([thesis][1]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
+Shengye Wan is a Research Scientist in Facebook. He received his Ph.D. from [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received M.S. in Computer Science ([thesis][1]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
 
 [1]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 
@@ -19,7 +19,7 @@ Williamsburg, VA, 23185
 
 ## Publication
 1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. "RusTEE: Developing Memory-Safe ARM TrustZone Applications". To appear in Annual Computer Security Applications Conference (ACSAC), Online, December 7-11, 2020.
-2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. "Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments". To appear in ACM Conference on Computer and Communications Security (CCS), Online, November 9-13, 2020.
+2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"](./assets/papers/CITM-CCS2020.pdf). To appear in ACM Conference on Computer and Communications Security (CCS), Online, November 9-13, 2020.
 3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"](./assets/papers/SATIN-DSN2019.pdf). In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
 4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
