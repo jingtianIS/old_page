@@ -3,9 +3,13 @@ layout: default
 ---
 
 # Background
-Shengye Wan is a Research Scientist in Facebook. He received his Ph.D. from [College of William & Mary](http://www.wm.edu/), under the supervision of [Dr. Kun Sun](http://csis.gmu.edu/ksun/). Before that, he received M.S. in Computer Science ([thesis][1]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2014.
+Shengye Wan is a Research Scientist in Facebook. He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm], under the supervision of [Dr. Kun Sun][professor]. Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
 
-[1]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
+[dissertation]: https://search.proquest.com/openview/8b28b39dd5eb015c0f2c6423aca472c0/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y
+[thesis]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
+[professor]: http://csis.gmu.edu/ksun/
+[wm]: http://www.wm.edu/
+[hust]: http://english.hust.edu.cn/
 
 # Contact
 **Email:** swan at email.wm.edu
