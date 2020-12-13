@@ -13,7 +13,7 @@ Shengye Wan ([resume][resume]) is a coder in Facebook. He received his Ph.D. ([d
 [hust]: http://english.hust.edu.cn/
 
 # Contact
-**Email:** swan at email.wm.edu
+**Email:** simonsywan at gmail.com
 
 **Address:** 1 Hacker Way, Menlo Park, CA, 94025
 
@@ -27,8 +27,8 @@ Shengye Wan ([resume][resume]) is a coder in Facebook. He received his Ph.D. ([d
 **Interest:** Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. To appear in Annual Computer Security Applications Conference (ACSAC), Online, December 7-11, 2020.
-2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. To appear in ACM Conference on Computer and Communications Security (CCS), Online, November 9-13, 2020.
+1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. In proceedings of Annual Computer Security Applications Conference (ACSAC) 2020.
+2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. In proceedings of ACM Conference on Computer and Communications Security (CCS) 2020.
 3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"][satin]. In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
 4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019.
 5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017.
@@ -46,6 +46,6 @@ Shengye Wan ([resume][resume]) is a coder in Facebook. He received his Ph.D. ([d
 
 * * *
 
-*Last updated: October, 2020*
+*Last updated: December, 2020*
 
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
