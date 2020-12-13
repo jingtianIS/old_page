@@ -3,8 +3,9 @@ layout: default
 ---
 
 # Background
-Shengye Wan is a coder in Facebook. He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm], under the supervision of [Dr. Kun Sun][professor]. Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
+Shengye Wan ([resume][resume]) is a coder in Facebook. He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm], under the supervision of [Dr. Kun Sun][professor]. Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
 
+[resume]: ./assets/Resume_Shengye.pdf
 [dissertation]: https://search.proquest.com/openview/8b28b39dd5eb015c0f2c6423aca472c0/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y
 [thesis]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 [professor]: http://csis.gmu.edu/ksun/
@@ -20,17 +21,23 @@ Shengye Wan is a coder in Facebook. He received his Ph.D. ([dissertation][disser
 * **Research Scientist**, Facebook, Inc. Oct. 2020 - now.
 * **Software Engineer Intern**, Product Security Team, Facebook, Inc. July 2019 - Sept. 2019: Working on an Android WebView related project. 
 
-* **Security Research Intern**, Baidu USA LLC. Jan.2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
+* **Security Research Intern**, Baidu USA LLC. Jan. 2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
 
 # Research
 **Interest:** Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
-1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"](./assets/papers/RusTEE-ACSAC2020.pdf). To appear in Annual Computer Security Applications Conference (ACSAC), Online, December 7-11, 2020.
-2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"](./assets/papers/CITM-CCS2020.pdf). To appear in ACM Conference on Computer and Communications Security (CCS), Online, November 9-13, 2020.
-3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"](./assets/papers/SATIN-DSN2019.pdf). In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
-4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"](./assets/papers/PathMarker-Cybersecurity2019.pdf). Cybersecurity, 2(1), 2019.
-5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"](./assets/papers/PathMarker-ICC2017.pdf). In Proceedings of IEEE ICC 2017.
+1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. To appear in Annual Computer Security Applications Conference (ACSAC), Online, December 7-11, 2020.
+2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. To appear in ACM Conference on Computer and Communications Security (CCS), Online, November 9-13, 2020.
+3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"][satin]. In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award.
+4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019.
+5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017.
+
+[rustee]: ./assets/papers/RusTEE-ACSAC2020.pdf
+[citm]: ./assets/papers/CITM-CCS2020.pdf
+[satin]: ./assets/papers/SATIN-DSN2019.pdf
+[pathmarker-journal]: ./assets/papers/PathMarker-Cybersecurity2019.pdf
+[pathmarker-conference]: ./assets/papers/PathMarker-ICC2017.pdf
 
 ## Service
 * **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
