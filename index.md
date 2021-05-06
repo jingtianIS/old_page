@@ -6,7 +6,7 @@ layout: default
 Shengye Wan ([resume][resume]) is a coder of Facebook. He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
 
 [resume]: ./assets/Resume_Shengye.pdf
-[dissertation]: https://search.proquest.com/openview/8b28b39dd5eb015c0f2c6423aca472c0/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y
+[dissertation]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=7077&context=etd
 [thesis]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
 [professor]: http://csis.gmu.edu/ksun/
 [wm]: http://www.wm.edu/
