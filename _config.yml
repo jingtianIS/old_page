@@ -1,4 +1,9 @@
+lang:                  en
 title: Shengye Wan
+# A shorter description for the sidebar.
+tagline:               Code • Poker
+logo: /assets/img/fullbody-shot.jpeg
+
 remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
   - jekyll-include-cache
@@ -6,13 +11,12 @@ plugins:
 
 menu:
   - title: Resume
-    url:   /resume/
+    url:   /resume
   - title: Research
-    url:   /research/
+    url:   /research
 
 author:
   name: Shengye Wan
-  picture: /assets/img/fullbody-shot.jpeg
   email: simonsywan@gmail.com
   social:
     #twitter: 
@@ -30,7 +34,3 @@ defaults:
       accent_color: rgb(38,139,210)
 
 theme_color:  rgb(25,55,71)
-
-font:         Noto Sans, Helvetica, Arial, sans-serif
-font_heading: Roboto Slab, Helvetica, Arial, sans-serif
-google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
