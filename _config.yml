@@ -8,6 +8,7 @@ remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
   - jekyll-include-cache
   - jekyll-avatar
+  - jekyll-paginate
 
 menu:
   - title: Research
