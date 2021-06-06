@@ -4,7 +4,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-avatar
 
-layout: blog
+menu:
+  - title: Resume
+    url:   /resume/
+  - title: Research
+    url:   /research/
 
 author:
   name: Shengye Wan
