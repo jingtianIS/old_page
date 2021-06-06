@@ -3,6 +3,7 @@ layout: list
 title:  Research Experience
 description: >
   Present my research papers and experiences.
+hide_description: true
 ---
 
 # Research
