@@ -13,8 +13,6 @@ plugins:
 menu:
   - title: Research
     url:   /research
-  - title: Blog
-    url:  /blog
 
 author:
   name: Shengye Wan
