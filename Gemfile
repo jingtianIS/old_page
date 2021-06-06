@@ -14,7 +14,6 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
-  gem "jekyll-paginate"
 end
 
 gem 'wdm' if Gem.win_platform?
