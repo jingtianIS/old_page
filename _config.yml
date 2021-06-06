@@ -4,4 +4,4 @@ description: <center> Welcome <span>&#58</span>) </center>
 twitter_username: test
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: hydecorp/hydejack@v9.1.4
