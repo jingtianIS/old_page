@@ -17,7 +17,7 @@ menu:
     url:  /blog
     
 paginate:      5
-paginate_path: '/blog/:num/'
+paginate_path: /blog/:num/
 
 author:
   name: Shengye Wan
