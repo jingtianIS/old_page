@@ -4,7 +4,7 @@ title:  Hello World
 cover:  true
 ---
 
-## Background
+## About
 Shengye Wan ([resume][resume]) is a coder of Facebook. 
 
 He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. 
