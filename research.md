@@ -6,8 +6,8 @@ description: >
 hide_description: true
 ---
 
-# Research
-**Interest:** Trusted Execution Environment on Multi-Core Devices
+## Research Interest 
+Trusted Execution Environment on Multi-Core Devices
 
 ## Publication
 1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. "Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands". In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021.
@@ -27,7 +27,3 @@ hide_description: true
 * **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
 * **Conference reviewer**: IEEE INFOCOM 2020, IEEE ICC 2019, IEEE CNS 2018/2016.
 * **Conference sub-reviewer**: ICICS 2020/2019/2018, ICDCS 2020/2019, Securecomm 2018/2017, SciSec 2018.
-
-* * *
-
-*Last updated: June, 2021*
