@@ -10,6 +10,8 @@ theme_color: '#ccc'
 description: >
   pure space
 invert_sidebar: true
+categories: [update]
+tags:       [update]
 ---
 
 ### Sorry I'm lazy
