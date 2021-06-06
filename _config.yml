@@ -10,10 +10,10 @@ plugins:
   - jekyll-avatar
 
 menu:
-  - title: Resume
-    url:   /resume
   - title: Research
     url:   /research
+  - title: Blog
+    url:  /blog
 
 author:
   name: Shengye Wan
@@ -22,7 +22,7 @@ author:
     #twitter: 
     github: simonwan
   about: |
-    Hi, I'm Simon or @simonwan, welcome!
+    Hi, I'm Simon / @simonwan, welcome!
 
     And welcome again!
     
