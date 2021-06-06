@@ -34,3 +34,7 @@ defaults:
       accent_color: rgb(38,139,210)
 
 theme_color:  rgb(25,55,71)
+
+# Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
+# Note that this setting has no effect when using the free version.
+advertise:           false
