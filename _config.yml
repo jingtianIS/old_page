@@ -4,19 +4,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-avatar
 
-defaults:
-  - scope:
-      path:         hydejack/
-    values:
-      accent_image: /assets/img/hydejack-bg.jpg
-      accent_color: rgb(38,139,210)
-
-theme_color:  rgb(25,55,71)
-
-font:         Noto Sans, Helvetica, Arial, sans-serif
-font_heading: Roboto Slab, Helvetica, Arial, sans-serif
-google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
-layout: list
+layout: blog
 
 author:
   name: Shengye Wan
@@ -30,5 +18,17 @@ author:
 
     And welcome again!
     
+defaults:
+  - scope:
+      path:         hydejack/
+    values:
+      accent_image: /assets/img/hydejack-bg.jpg
+      accent_color: rgb(38,139,210)
+
+theme_color:  rgb(25,55,71)
+
+font:         Noto Sans, Helvetica, Arial, sans-serif
+font_heading: Roboto Slab, Helvetica, Arial, sans-serif
+google_fonts: Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+
 google_analytics: UA-XXXXXXXX-X
-    
