@@ -1,7 +1,7 @@
 lang:                  en
 title: Shengye Wan
 # A shorter description for the sidebar.
-tagline:               Coder • Poker • Pokemon Trainer
+tagline:               Coder • PhD • Pokemon Trainer
 logo: /assets/img/avator.jpeg
 
 remote_theme: hydecorp/hydejack@v9.1.4
