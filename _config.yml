@@ -24,17 +24,10 @@ author:
     Hi, I'm Simon / @simonwan, welcome!
 
     And welcome again!
-    
-defaults:
-  - scope:
-      path:         hydejack/
-    values:
-      accent_image: /assets/img/hydejack-bg.jpg
-      accent_color: rgb(38,139,210)
 
 # Sidebar image and theme color of the site.
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
-accent_image:   /assets/img/charizard-3.jpeg
+accent_image: '/assets/img/charizard-2.png'
 theme_color:  rgb(25,55,71)
 
 collections:
