@@ -33,8 +33,8 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 * **Security Research Intern**, Baidu USA LLC.
   * Jan. 2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
 
-<p></p>
-<p></p>
+<br>
+<br>
 
 ---
 *The template is powered by [Hydejack](https://hydejack.com/).*
