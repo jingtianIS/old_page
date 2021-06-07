@@ -2,7 +2,7 @@
 layout: about
 title:  Hi there! This is Shengye Wan.
 description: >
-  This page provides the simplest version of me :)
+  This page provides the simplest version of Shengye.
 cover:  true
 ---
 
@@ -27,7 +27,7 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 
 ## Experience
 * **Research Scientist**, Facebook, Inc. 
-  * Oct. 2020 - now: ~~Training my Charizard.~~
+  * Oct. 2020 - now: ~~Training his Charizard.~~
 * **Software Engineer Intern**, Product Security Team, Facebook, Inc.  
   * July 2019 - Sept. 2019: Working on an Android WebView related project. 
 * **Security Research Intern**, Baidu USA LLC.
