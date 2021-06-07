@@ -26,8 +26,8 @@ author:
     And welcome again!
 
 # Sidebar image and theme color of the site.
-accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
-accent_image: '/assets/img/super-cool.jpeg'
+accent_color:          rgb(100,65,0) # ACCESS - hex #4CC355
+accent_image: '/assets/img/super_team.jpeg'
 theme_color:  rgb(25,55,71)
 
 collections:
