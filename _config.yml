@@ -2,7 +2,7 @@ lang:                  en
 title: Shengye Wan
 # A shorter description for the sidebar.
 tagline:               Coder • Poker • Pokemon Trainer
-logo: /assets/img/fullbody-shot.jpeg
+logo: /assets/img/avator.jpeg
 
 remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
@@ -27,7 +27,7 @@ author:
 
 # Sidebar image and theme color of the site.
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
-accent_image: '/assets/img/fullbody-shot.jpeg'
+accent_image: '/assets/img/charizard-2.png'
 theme_color:  rgb(25,55,71)
 
 collections:
