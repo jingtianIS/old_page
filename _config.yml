@@ -1,7 +1,7 @@
 lang:                  en
-title: Shengye Wan
+title: Jing Tian
 # A shorter description for the sidebar.
-tagline:               Coder • PhD • Pokemon Trainer
+tagline:               PhD • Researcher
 logo: /assets/img/avator.jpeg
 
 remote_theme: hydecorp/hydejack@v9.1.4
@@ -15,13 +15,13 @@ menu:
     url:   /research
 
 author:
-  name: Shengye Wan
-  email: simonsywan@gmail.com
+  name: Jing Tian
+  email: tianjing4011@gmail.com
   social:
     #twitter: 
-    github: simonwan
+    github: jingtianIS
   about: |
-    Hi, I'm Simon / @simonwan, welcome!
+    Hi, I'm Jing / @jingtianIS, welcome!
 
     And welcome again!
 
