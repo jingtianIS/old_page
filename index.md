@@ -1,8 +1,8 @@
 ---
 layout: about
-title:  Hi there! This is Shengye Wan.
+title:  Hi there! This is supposed to be Jing Tian.
 description: >
-  This page provides the simplest version of Shengye.
+  This page provides the simplest version of Jing's boy friend Shengye.
 cover:  true
 ---
 
