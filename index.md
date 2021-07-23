@@ -1,38 +1,40 @@
 ---
 layout: about
-title:  Hi there! This is supposed to be Jing Tian.
+title:  Hi there! This is Jing Tian.
 description: >
-  This page provides the simplest version of Jing's boy friend Shengye.
+  This page provides the simplest version of Jing.
 cover:  true
 ---
 
 ## About
-Shengye Wan ([resume][resume]) is a coder of Facebook. 
+Jing Tian is a post-doctoral research fellow from the J.Mack Robinson College of Business in Gerogia State University. She works under the supervision of [Dr. Arun Rai](professor-rai).
 
-He received his Ph.D. ([dissertation][dissertation]) from [College of William & Mary][wm] in 2020, under the supervision of [Dr. Kun Sun][professor]. 
+She received her Ph.D. in Information Management and Information Systems from [Fudan University][fudan] in 2019, under the supervision of [Dr. Ling][professor-ling]. 
 
-Before that, he received M.S. in Computer Science ([thesis][thesis]) from College of William & Mary in 2016 and B.Eng. in Software Engineering from [Huazhong University of Science and Technology][hust] in 2014.
+Before that, she received 2 bachelor degrees in 2014, one B.A. in Management Information Systems from [Tianjin University](tianjin-u), and one B.Sc. in Finance from [Nankai University](nankai).
 
-[resume]: ./assets/Resume_Shengye.pdf
-[dissertation]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=7077&context=etd
-[thesis]: https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1039&context=etd
-[professor]: http://csis.gmu.edu/ksun/
-[wm]: http://www.wm.edu/
-[hust]: http://english.hust.edu.cn/
+[professor-rai]: https://www.arunrai.net/
+[professor-ling]: https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=1816
+[fudan]: https://www.fudan.edu.cn/en/
+[tianjin-u]: http://www.tju.edu.cn/english/index.htm
+[nankai]: https://en.nankai.edu.cn/
+
 
 ## Contact
-**Email:** simonsywan at gmail.com
+**Email:** jtian9 at gsu.edu
 
-**Address:** 1 Hacker Way, Menlo Park, CA, 94025
+**Address:** Center for Digital Innovation, J. Mack Robinson College of Business, Georgia State University, Atlanta, GA, 30303.
 
-## Experience
-* **Research Scientist**, Facebook, Inc. 
-  * Oct. 2020 - now: ~~Training his Charizard.~~
-* **Software Engineer Intern**, Product Security Team, Facebook, Inc.  
-  * July 2019 - Sept. 2019: Working on an Android WebView related project. 
-* **Security Research Intern**, Baidu USA LLC.
-  * Jan. 2019 - July 2019: Developing the [open-source Rust SDK](https://github.com/mesalock-linux/rust-optee-trustzone-sdk) for ARM TrustZone architecture. 
+## Academic Experience
+* **Post-doctoral Research Fellow**, Center for Digital Innovation, Georgia State University. 
+  * 2019 - now: ~~Training her Charizard.~~
+* **Visiting Scholar**, Center for Digital Innovation, Georgia State University.  
+  * 2017 - 2018: ~~Training her Charmander.~~
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -40,6 +42,3 @@ Before that, he received M.S. in Computer Science ([thesis][thesis]) from Colleg
 *The template is powered by [Hydejack](https://hydejack.com/).*
 
 *Icon image is posted by [u/flickerstop](https://www.reddit.com/r/pokemon/comments/2twnos/modern_background_images_of_user_requests_batch_2/).*
-
-*I cannot identify the source of my super cool background image, sad.*
-
