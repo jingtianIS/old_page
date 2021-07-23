@@ -2,44 +2,42 @@
 layout: list
 title:  Research
 description: >
-  Thank you for your interest in my research works, and I'm always happy to discuss them.
+  Thank you for your interest in my research works, and I'm always happy to discuss them with you.
 ---
 
-## Research Interest 
-Trusted Execution Environment on Multi-Core Devices
+## Research Interests
 
-## Publication
-1. **S. Wan**, K. Sun, N. Zhang, and Y. Li. ["Remotely Controlling TrustZone Applications? A Study on Securely and Resiliently Receiving Remote Commands"][tznic]. In proceedings of ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2021. [[paper][tznic-paper], [slides][tznic-slides]]
-1. **S. Wan**, M. Sun, K. Sun, N. Zhang, and X. He. ["RusTEE: Developing Memory-Safe ARM TrustZone Applications"][rustee]. In proceedings of Annual Computer Security Applications Conference (ACSAC) 2020. [[paper][rustee-paper], [slides][rustee-slides]]
-2. J. Wang, K. Sun, L. Lei, **S. Wan**, Y. Wang, and J. Jing. ["Cache-in-the-Middle (CITM) Attacks : Manipulating Sensitive Data in Isolated Execution Environments"][citm]. In proceedings of ACM Conference on Computer and Communications Security (CCS) 2020. [[paper][citm-paper]]
-3. **S. Wan**, J. Sun, N. Zhang, K. Sun, and Q. Li. ["SATIN: A Secure and Trustworthy Asynchronous Introspection on Multi-Core ARM Processors"][satin]. In proceedings of IEEE DSN 2019. Received DSN 2019 Student Travel Award. [[paper][satin-paper], [slides][satin-slides]]
-4. **S. Wan**, Y. Li, and K. Sun. ["PathMarker: Protecting Web Contents against Inside Crawlers"][pathmarker-journal]. Cybersecurity, 2(1), 2019. [[paper][pathmarker-journal-paper]]
-5. **S. Wan**, Y. Li, and K. Sun. ["Protecting Web Contents against Persistent Distributed Crawlers"][pathmarker-conference]. In Proceedings of IEEE ICC 2017. [[paper][pathmarker-conference-paper], [slides][pathmarker-slides]]
+### Topic
+* AI Augmented Systems, AI Fairness, Explainable AI, Human-AI Interaction, Platform Governance, Platform Competition, IT Strategy
 
-[tznic]: https://dl.acm.org/doi/10.1145/3448300.3468501
-[rustee]: https://dl.acm.org/doi/abs/10.1145/3427228.3427262
-[citm]: https://dl.acm.org/doi/10.1145/3372297.3417886
-[satin]: https://ieeexplore.ieee.org/document/8809538
-[pathmarker-journal]: https://cybersecurity.springeropen.com/articles/10.1186/s42400-019-0023-1
-[pathmarker-conference]: https://ieeexplore.ieee.org/document/7996685
+### Methodology
+* Econometrics, Natural Language Processing, Machine learning, Experiments, Social Network Analysis
 
-[tznic-paper]: ./assets/papers/TZNIC-WiSec2021.pdf
-[rustee-paper]: ./assets/papers/RusTEE-ACSAC2020.pdf
-[citm-paper]: ./assets/papers/CITM-CCS2020.pdf
-[satin-paper]: ./assets/papers/SATIN-DSN2019.pdf
-[pathmarker-journal-paper]: ./assets/papers/PathMarker-Cybersecurity2019.pdf
-[pathmarker-conference-paper]: ./assets/papers/PathMarker-ICC2017.pdf
+## Academic Services
 
-[tznic-slides]: ./assets/slides/TZNIC.pdf
-[rustee-slides]: ./assets/slides/RusTEE.pdf
-[satin-slides]: ./assets/slides/SATIN.pdf
-[pathmarker-slides]: ./assets/slides/PathMarker.pdf
+### Ad-hoc Reviewer
+* Electronic Commerce Research and Applications, Journal of Electronic Commerce Research, International Conference on Information Systems (ICIS), European Conference on Information Systems (ECIS), Pacific-Asia Conference on Information Systems(PACIS), China Summer Workshop on Information Management (CSWIM)
 
-## Service
-* **Journal reviewer**: IEEE Internet Computing, ACM Digital Threats: Research and Practice, CCF Transactions on Networking.
-* **Conference reviewer**: IEEE INFOCOM 2020, IEEE ICC 2019, IEEE CNS 2018/2016.
-* **Conference sub-reviewer**: ICICS 2020/2019/2018, ICDCS 2020/2019, Securecomm 2018/2017, SciSec 2018.
+## Publications
+
+### Refereed Journal Publications
+* Xia Zhao, **Jing Tian**, and Ling Xue. "Herding and software adoption: A re-examination based on post-adoption software discontinuance," Journal of Management Information Systems, 2020, 37(2), 484-509.
+* **Jing Tian**, Yicheng Zhang, and Cheng Zhang. "Predicting consumer variety-seeking through weather data analytics," Electronic Commerce Research and Applications, 2018, (28), 194-207. 
+* **Jing Tian**, Xinlin Yao, and Cheng Zhang. "Knowledge Input and Output of Information System Field: 1990-2010," China Journal of Information Systems, 2017, (1), 84-93. 
+
+### Working Papers
+* **Jing Tian**, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Tradeoff Perspective," under the 3rd round review at MIS Quarterly.
+
+### Conferences Proceedings and Presentations
+* **Jing Tian**, Ling Xue, Sean Cao, and Yuan Long. "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," The 17th Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), Online, 2021
+* **Jing Tian**, Ling Xue, Sean Cao, and Yuan Long. "Transparency or Perception Manipulation? A Study of IT Disclosure Tone in the Context of Data Breaches," The 14th China Summer Workshop on Information Management (CSWIM), Online, 2021
+* **Jing Tian**, Arun Rai, and Ling Xue. "A Justice Theory Perspective of AI Fairness: Conceptualization, Measurement, and Attainment," CDIN Research Colloquium, April 2021 
+* **Jing Tian**, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Study of Firefox and Chrome," The 51st Annual Conference of the Decision Sciences Institute, Online, 2020
+* **Jing Tian**, Xia Zhao, and Ling Xue. "Platform Compatibility and Developer Multihoming: A Study of Firefox and Chrome," Proceedings of the 11th INFORM Conference on Information Systems and Technology (CIST), Seattle, WA, 2019.
+* **Jing Tian**, Xia Zhao, and Ling Xue. "Technological compatibility between platforms and multi-homing of third-party developers," Proceedings of 40th International Conference on Information Systems (ICIS), Munich, German, 2019.
+* Jie Gu, **Jing Tian**, Xiaolun Wang, and Hong Ling. "Does Negative News Travel Fast? Exploring the Effect of News Sentiment on Interactive Spiral," The 19th International Conference on Human Computer Interaction, Vancouver, Canada, 2017.
+* **Jing Tian**, Yicheng Zhang, Chee Wei Phang, and Cheng Zhang, "Weather Effects on Consumer Variety seeking," The 20th Pacific-Asia Conference on Information Systems (PACIS), Chiayi, Taiwan, 2016.
 
 * * *
 
-*Last updated: June, 2021*
+*Last updated: July, 2021*
